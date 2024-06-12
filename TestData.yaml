@@ -1,0 +1,5 @@
+address: https://test-stand.gb.ru
+browser: chrome
+login:  tortor
+password: bd3ad9b1d8
+alert_text: Form successfully submitted
